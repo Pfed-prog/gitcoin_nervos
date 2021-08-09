@@ -1,4 +1,5 @@
 1. A screenshot of the console output immediately after deploying smart contract:
+![Console](https://github.com/Pfed-prog/gitcoin_nervos/blob/main/task5/deploy.png)
 
 2. The address of the ERC20 Proxy Contract you deployed (in text format):
 
