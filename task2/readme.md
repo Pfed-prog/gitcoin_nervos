@@ -1,4 +1,4 @@
-1.![Console](https://github.com/Pfed-prog/gitcoin_nervos/blob/main/task2/picture.png)
+![Console](https://github.com/Pfed-prog/gitcoin_nervos/blob/main/task2/picture.png)
 
 The transaction hash: 
 ```0x6b358aa961874eb44cba03fffbb55ef85f15f9214d392b288420c2c95c1bff67```
